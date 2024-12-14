@@ -30,5 +30,6 @@ Choose an option from the menu:
 2 to view all tasks
 3 to delete a task by specifying its position
 4 to exit the program
-Follow the prompts for each option to manage your to-do list.
+Follow the prompts for each option to manage your to-do list
+
 
